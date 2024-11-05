@@ -29,7 +29,9 @@ nav a {
 section {
     padding: 20px;
     background: #fff;
-    margin: 20px 0;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 800px;
 }
 
 h2 {
@@ -45,3 +47,4 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
